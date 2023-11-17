@@ -6,7 +6,7 @@ This is a Script for php_screw encrypto to get the pm9screw_mycryptkey. It can o
 
 ### Usage
 ```sh
-    ./get_key.sh [file_path]
+    ./get_key.sh <file_path>
 ```
 ### example
 
